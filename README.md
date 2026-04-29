@@ -43,4 +43,4 @@ so readers can quickly understand which energy sources are
 growing and which are most efficient.
 
 ## Live Site
-https://yourusername.githubio/green-energy-report
+https://briankarugu2000-dot.github.io/The-Global-Green-Energy-Report/
